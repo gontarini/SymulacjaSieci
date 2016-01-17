@@ -1,0 +1,12 @@
+C:\Users\Pawel\Desktop\lab6\SymulacjaSieci1\bin\Debug\SymulacjaSieci1.exe.config
+C:\Users\Pawel\Desktop\lab6\SymulacjaSieci1\bin\Debug\SymulacjaSieci1.exe
+C:\Users\Pawel\Desktop\lab6\SymulacjaSieci1\bin\Debug\SymulacjaSieci1.pdb
+C:\Users\Pawel\Desktop\lab6\SymulacjaSieci1\obj\Debug\SymulacjaSieci1.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\lab6\SymulacjaSieci1\obj\Debug\SymulacjaSieci1.exe
+C:\Users\Pawel\Desktop\lab6\SymulacjaSieci1\obj\Debug\SymulacjaSieci1.pdb
+C:\Users\Pawel\Documents\Project2-AISDE\SymulacjaSieci1\bin\Debug\SymulacjaSieci1.exe.config
+C:\Users\Pawel\Documents\Project2-AISDE\SymulacjaSieci1\obj\Debug\SymulacjaSieci1.exe
+C:\Users\Pawel\Documents\Project2-AISDE\SymulacjaSieci1\obj\Debug\SymulacjaSieci1.pdb
+C:\Users\Pawel\Documents\Project2-AISDE\SymulacjaSieci1\bin\Debug\SymulacjaSieci1.exe
+C:\Users\Pawel\Documents\Project2-AISDE\SymulacjaSieci1\bin\Debug\SymulacjaSieci1.pdb
+C:\Users\Pawel\Documents\Project2-AISDE\SymulacjaSieci1\obj\Debug\SymulacjaSieci1.csprojResolveAssemblyReference.cache
