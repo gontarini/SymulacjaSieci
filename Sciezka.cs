@@ -91,6 +91,7 @@ namespace SymulacjaSieci1
             {
                 liczba_zapetlen = 0;
                 for (int i = 1; i <= siec.liczba_wezlow; i++) sciezka_losowa[indeks_zapotrzebowania, i] = 0;
+                sciezkaWyzarzona(s, k, s, siec, indeks_zapotrzebowania);
                 warunek = false;
                 ostatni = indeks_zapotrzebowania;
                 return;

@@ -81,7 +81,7 @@ namespace SymulacjaSieci1
                                 koszt_bazowy = koszt_iteracji;
                                 sciezka.tablica_modulow1 = sciezka.tablica_modulow2;
                                 sciezka.krawedzie_zapotrzebowan1 = sciezka.krawedzie_zapotrzebowan2;
-                                temperatura /= 2; ;
+                                temperatura /= 2; 
                                 liczba_zapetlen = 0;
                             }
                             else
@@ -108,7 +108,6 @@ namespace SymulacjaSieci1
             }
 
         }
-
         public void zapisywanie()
         {
             #region nazwa pliku zapisowego
